@@ -1,4 +1,4 @@
-from DEPI.connect.Projects.python_final_pro.system_manger import systemManeger  # Import the main manager class to handle students and courses
+from system_manger import systemManeger  # Import the main manager class to handle students and courses
 
 # Function to display the main menu
 def show_menu():
